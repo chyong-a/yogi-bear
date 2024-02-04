@@ -1,0 +1,6 @@
+- 8
+M T B 
+ M   B R
+  P T T B B 
+    M T B B   
+   B  T       

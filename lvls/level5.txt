@@ -1,0 +1,6 @@
+- 5
+M T   
+  M T B R
+P   T T B B 
+    M T B   
+   B  T        
